@@ -1,16 +1,16 @@
 # gustav_navigator
 
-A new Flutter project.
+project ini adalah tugas minggu ke dua dari bootcamp online nusa codes
 
-## Getting Started
+dimana tugas ini membuat sebuah halaman
 
-This project is a starting point for a Flutter application.
+1. home pages
+2. profil pages
+3. setting pages
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+dan menggunakan navigator.pushNamed dan navigator.pop()
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+dan juga menggunakan tabbar
+
+
